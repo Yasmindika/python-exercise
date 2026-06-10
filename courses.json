@@ -1,0 +1,14 @@
+[
+    {
+        "course_id": "2025",
+        "course_name": "software engineering",
+        "trainer_name": "janet",
+        "capacity": 200
+    },
+    {
+        "course_id": "2023",
+        "course_name": "ai technology",
+        "trainer_name": "jacob",
+        "capacity": 240
+    }
+]

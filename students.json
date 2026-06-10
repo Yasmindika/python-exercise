@@ -1,0 +1,14 @@
+[
+    {
+        "student_id": "00932",
+        "name": "Yasmin Dika",
+        "email": "yasmindika@gmail.com",
+        "phone_number": "087654321"
+    },
+    {
+        "student_id": "09654",
+        "name": "Ali Baya",
+        "email": "alibaya@gmail.com",
+        "phone_number": "098765432"
+    }
+]
